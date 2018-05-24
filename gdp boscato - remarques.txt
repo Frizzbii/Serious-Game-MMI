@@ -56,7 +56,7 @@ cause : les TIC évoluent, les outils deviennent plus interactif
             les interfaces graphiques sont de plus en plus performantes
 bien, mais vous pouver afiner
  
-Le bersoin : à revoir
+	Le bersoin : à revoir
  
 	QQOQCP du besoin
 	En cours ou depuis chez soi c'est le projet
