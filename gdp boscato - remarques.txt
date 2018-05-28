@@ -21,17 +21,17 @@
 	soit plus de ressources (neurones)
 	...
  
-Logigramme cdv du produit :
-étudier, réaliser, valider quoi ?
-il est pas mal, il y manque qq précisions
-"ETUDE" doit être en élipse
-même couleur partout, manque de visuel (revoir cours)
-en plus c'est votre métier !
+	Logigramme cdv du produit :
+	étudier, réaliser, valider quoi ?
+	il est pas mal, il y manque qq précisions
+	"ETUDE" doit être en élipse
+	même couleur partout, manque de visuel (revoir cours)
+	en plus c'est votre métier !
   
-dessin centré cdv du produit :
-trop généraliste
-adaptez le à votre produit
-plus de précision
+	dessin centré cdv du produit :
+	trop généraliste
+	adaptez le à votre produit
+	plus de précision
  
 	boite noire :
 	expliquez le concept
@@ -49,12 +49,12 @@ il y manque l'étidiant(e) concepteur (issu de la bête à corne (vu en cours)
 et l'étudiant(e) utilisateur /!\
 il vous faur repartie avec ces deux nouveau E.M.E.
  
-SCORE
-Symptome : cela n'existe pas, est innovant
+	SCORE
+	Symptome : cela n'existe pas, est innovant
                    tous les étudiant ont accès aux outils informatique 
-cause : les TIC évoluent, les outils deviennent plus interactif
-            les interfaces graphiques sont de plus en plus performantes
-bien, mais vous pouver afiner
+	cause : les TIC évoluent, les outils deviennent plus interactif
+	les interfaces graphiques sont de plus en plus performantes
+	bien, mais vous pouver afiner
  
 	Le bersoin : à revoir
  
